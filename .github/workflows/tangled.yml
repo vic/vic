@@ -1,0 +1,29 @@
+name: tangled
+on:
+  issue_comment:
+    types: [ created ]
+jobs:
+  tangled-mirror:
+    if: ${{ github.event.issue.number == 3 && github.repository == 'vic/vic' }}
+    environment: tangled
+    runs-on: ubuntu-slim
+    env:
+      GITHUB_REPO_PREFIX: git@github.com:vic
+      TANGLED_REPO_PREFIX: https://tangled.org/oeiuwq.com
+      TANGLED_SSH_KEY: ${{ secrets.TANGLED_SSH_KEY }}
+      GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+    steps:
+      - run: gh issue -R vic/vic view -c 3 --json comments -q '.comments|last|"CID=\(.id)\nBODY=\(.body)"' | tee $GITHUB_ENV
+      - run: gh api graphql -f query='mutation($id:ID!){deleteIssueComment(input:{id:$id}){clientMutationId}}' -F "id=$CID"
+      - run: echo "REPO=$(echo $BODY | head -n 1 | awk '{print$1}')" | tee $GITHUB_ENV
+      - run: |
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+          ssh-keyscan -t rsa tangled.org >> ~/.ssh/known_hosts
+          ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+          echo -n "$TANGLED_SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 400 ~/.ssh/*
+      - run: git clone --bare $TANGLED_REPO_PREFIX/$REPO .
+      - run: git remote add gh $GITHUB_REPO_PREFIX/$REPO.git
+      - run: git push --branches gh
+      - run: git push --tags gh
