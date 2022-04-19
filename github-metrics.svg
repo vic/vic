@@ -215,7 +215,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    999 views in last two weeks
+                                    979 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -547,14 +547,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8.25kb of code in 24 edited files across 30 commits over last 14 days</small>
+                <small>estimation from 5.07kb of code in 23 edited files across 23 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.7094769549456" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="450.7094769549456" y="0" width="9.290523045054377" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.89802130898016" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="450.89802130898016" y="0" width="9.101978691019786" height="8" fill="#7e7eff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -566,8 +566,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>3.78 kB</div>
-                                <div>97.98%</div>
+                                <div>3.86 kB</div>
+                                <div>98.02%</div>
                             </small>
                         </div>
                     </section>
@@ -581,7 +581,7 @@
                             </div>
                             <small>
                                 <div>78 bytes</div>
-                                <div>2.02%</div>
+                                <div>1.98%</div>
                             </small>
                         </div>
                     </section>
@@ -2847,7 +2847,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vstreame/astexplorer-gleam</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(Experimental) WASM implementation of Gleam's AST meant for ASTExplorer</div>
@@ -2900,7 +2900,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crossbeam-rs/crossbeam</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools for concurrent programming in Rust</div>
@@ -3281,7 +3281,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2022, 21:30:22 (timezone America/Mexico_City) with lowlighter/metrics@3.23.0-beta</span>
+                <span>Last updated 19 Apr 2022, 08:09:54 (timezone America/Mexico_City) with lowlighter/metrics@3.23.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
