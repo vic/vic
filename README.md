@@ -25,7 +25,10 @@ You can reach me here:
 ###### Things I'm currently hacking
 
 [![vix](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=vix&show_owner=true&theme=shades-of-purple)](https://github.com/vic/vix)
-[![nix-versions](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=nix-versions&show_owner=true&theme=buefy)](https://github.com/vic/nix-versions)
+[![nix-versions](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=nix-versions&show_owner=true&theme=shades-of-purple)](https://github.com/vic/nix-versions)
+[![eff.go](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=eff.go&show_owner=true&theme=shades-of-purple)](https://github.com/vic/eff.go)
+
+
 
 
 
