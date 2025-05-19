@@ -27,6 +27,8 @@ You can reach me here:
 [![vix](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=vix&show_owner=true&theme=shades-of-purple)](https://github.com/vic/vix)
 [![nix-versions](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=nix-versions&show_owner=true&theme=shades-of-purple)](https://github.com/vic/nix-versions)
 [![fx.go](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=fx.go&show_owner=true&theme=shades-of-purple)](https://github.com/vic/fx.go)
+[![fx-rs](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=fx-rs&show_owner=true&theme=shades-of-purple)](https://github.com/vic/fx-rs)
+
 
 
 
