@@ -2,7 +2,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=vic&count_private=true&show_icons=true&hide_border=true&theme=material-palenight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-The top-lang stats is definitely wrong, haha. I'm doing lots of Nix, Scala3 and Go.
+The top-lang stats is definitely wrong, haha. I'm doing lots of Nix, Scala3, Go and Rust.
 
 ## About me
 
