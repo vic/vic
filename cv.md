@@ -1,5 +1,5 @@
 # VICTOR BORJA
-Software Engineer & Open Source Contributor | github.com/vic | twitter.com/oeiuwq
+Software Engineer & Open Source Contributor | github.com/vic | twitter.com/oeiuwq | vborja@apache.org
 
 ---
 
