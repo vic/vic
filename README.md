@@ -14,6 +14,10 @@ You can reach me here:
 - [oeiuwq@x](https://x.com/oeiuwq)
 - [oeiuwq@bsky](https://bsky.app/profile/oeiuwq.bsky.social)
 
+# I'm looking for new opportunities
+
+[Here's my CV](https://github.com/vic/vic/blob/main/cv.md) contact me if you need more details
+
 </td><td>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vic&theme=ambient_gradient&langs_count=20&layout=donut)
