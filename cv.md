@@ -1,6 +1,8 @@
 # VICTOR BORJA
 Software Engineer & Open Source Contributor | github.com/vic | twitter.com/oeiuwq | vborja@apache.org
 
+I believe in creating tools that empower other developers and contributing to opensource. My passion lies at the intersection of functional programming principles and practical systems that solve real-world problems.
+
 ---
 
 ## PROFESSIONAL SUMMARY
