@@ -32,7 +32,6 @@ Nowdays I prefer doing Nix, Scala3, Rust and Go.
 ---
 ###### Things I'm currently hacking
 
-[explore all my repos](https://github.com/vic?tab=repositories)
 
 [![import-tree](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=import-tree&show_owner=true&theme=shades-of-purple)](https://github.com/vic/import-tree)
 [![dennix](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=dennix&show_owner=true&theme=shades-of-purple)](https://github.com/vic/dennix)
@@ -42,7 +41,7 @@ Nowdays I prefer doing Nix, Scala3, Rust and Go.
 [![fx-rs](https://github-readme-stats.vercel.app/api/pin/?username=vic&repo=fx-rs&show_owner=true&theme=shades-of-purple)](https://github.com/vic/fx-rs)
 
 
-
+[Explore all my original repos](https://github.com/vic?tab=repositories&q=&type=source&language=&sort=)
 
 
 
