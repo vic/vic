@@ -6,7 +6,7 @@ The top-lang stats is definitely wrong, haha. I'm doing lots of Nix, Scala3, Go 
 
 ## About me
 
-I love poetry, Rothko paintings and effect systems.
+I love poetry, Rothko paintings, the [Rebecca purple](https://github.com/vic/rebecca-theme) color and effect systems.
 
 You can reach me here:
 
