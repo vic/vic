@@ -57,6 +57,7 @@ Feel free to reach out if you’d like to collaborate or discuss opportunities o
 
 </td><td>
 
+
 If you like what [I'm doing](https://github.com/search?q=involves%3Avic&type=pullrequests&s=updated&o=desc) and want to show your [support](https://github.com/sponsors/vic), I'm open to [donations](https://ko-fi.com/E1E51I0QG5).
 
 You can also just say "Hey, here's a potato" and leave [a potato](https://github.com/vic/vic/issues/new?title=Here%27s%20a%20potato) or anything else.
@@ -64,6 +65,7 @@ You can also just say "Hey, here's a potato" and leave [a potato](https://github
 If you want me to contribute to some project I can also take [comissions](https://ko-fi.com/c/7a273262aa) for working on OpenSource.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E51I0QG5)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/vic?style=social&logo=github-sponsors&label=Support%20%40vic%20at%20GitHub)](https://github.com/sponsors/vic)
 
 ---
 
