@@ -146,6 +146,13 @@ If you’re building something in these areas, let’s connect!
 
 Here are some of my original open source projects, spanning several languages and ecosystems:
 
+
+### Nix
+- [![import-tree](https://img.shields.io/github/stars/vic/import-tree?style=social&logo=nixos&label=%2Fimport-tree)](https://github.com/vic/import-tree) - Import all Nix files in a directory tree.
+- [![dendrix](https://img.shields.io/github/stars/vic/dendrix?style=social&logo=nixos&label=%2Fdendrix)](https://github.com/vic/dendrix) - Community-driven Nix distribution.
+- [![flake-file](https://img.shields.io/github/stars/vic/flake-file?style=social&logo=nixos&label=%2Fflake-file)](https://github.com/vic/flake-file) - Generate flake.nix from module options.
+  
+
 ### Scala
 - [![zio-logic](https://img.shields.io/github/stars/vic/zio-logic?style=social&logo=scala&label=%2Fzio-logic)](https://github.com/vic/zio-logic) - μKanren-inspired relational/logic programming for ZIO2.
 - [![mill-docker](https://img.shields.io/github/stars/vic/mill-docker?style=social&logo=scala&label=%2Fmill-docker)](https://github.com/vic/mill-docker) - Minimalist distroless Docker images for Java apps using Mill.
@@ -190,13 +197,11 @@ Here are some of my original open source projects, spanning several languages an
 - [![heroku-buildpack-nim](https://img.shields.io/github/stars/vic/heroku-buildpack-nim?style=social&logo=gnubash&label=%2Fheroku-buildpack-nim)](https://github.com/vic/heroku-buildpack-nim) - Deploy Nim applications to Heroku.
 - [![pinocchio](https://img.shields.io/github/stars/vic/pinocchio?style=social&logo=gnubash&label=%2Fpinocchio)](https://github.com/vic/pinocchio) - Git-based server provisioning.
 
-### Nix
-- [![import-tree](https://img.shields.io/github/stars/vic/import-tree?style=social&logo=nixos&label=%2Fimport-tree)](https://github.com/vic/import-tree) - Import all Nix files in a directory tree.
-- [![dendrix](https://img.shields.io/github/stars/vic/dendrix?style=social&logo=nixos&label=%2Fdendrix)](https://github.com/vic/dendrix) - Community-driven Nix distribution.
-- [![flake-file](https://img.shields.io/github/stars/vic/flake-file?style=social&logo=nixos&label=%2Fflake-file)](https://github.com/vic/flake-file) - Generate flake.nix from module options.
-
 ### Other Significant Contributions (Forks & Community)
-- [Buildr](https://buildr.apache.org/): Core contributor and Apache Software Foundation PMC member for it.
+- [Darcs](https://darcs.net/): my early contributions to opensource.
+- [Ragel](https://github.com/adrian-thurston/ragel):  Ragel State Machine Compiler - early contributor: Ruby and Rubinius VM code compilers.
+- [vtd-xml](https://vtd-xml.sourceforge.io/):  Contributed patches to the streaming parser.
+- [Buildr](https://buildr.apache.org/): Core contributor and Apache Software Foundation member - Project Management Chair.
 - [asdf-vm](https://github.com/asdf-vm/asdf): Maintainer and plugin author for the extensible version manager.
 - [Rubinius](https://github.com/rubinius/rubinius): Early contributor to the Ruby VM.
 - [Fancy Language](https://github.com/fancy-lang/fancy): Contributor of a dynamic, functional OO language.
