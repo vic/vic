@@ -25,5 +25,5 @@ jobs:
           chmod 400 ~/.ssh/*
       - run: git clone --bare $TANGLED_REPO_PREFIX/$REPO .
       - run: git remote add gh $GITHUB_REPO_PREFIX/$REPO.git
-      - run: git push --branches gh
-      - run: git push --tags gh
+      - run: git push --mirror gh
+      # - run: git push --tags gh
