@@ -1,0 +1,37 @@
+---
+import Default from '@astrojs/starlight/components/Search.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+---
+<style>
+  .sl-link-button:hover {
+    font-style: italic;
+  }
+
+  .sl-link-button {
+    border-width: 1px;
+    border-style: dotted;
+  }
+
+  .sl-link-button.active {
+    font-weight: bolder;
+    color: var(--sl-color-text-accent);
+  }
+
+  .search { 
+    margin-left: 30px;
+    margin-top: 5px;
+    min-width: 300px;
+  }
+</style>
+
+<span class="sites">
+ <LinkButton variant="minimal" class="active" href="http://oeiuwq.com">Oeiuwq</LinkButton>
+ <LinkButton variant="minimal" href="http://faith.oeiuwq.com">Faith</LinkButton>
+ <LinkButton variant="minimal" href="http://blog.oeiuwq.com">Blog</LinkButton>
+ <LinkButton variant="minimal" href="http://codes.oeiuwq.com">OpenSource</LinkButton>
+ <LinkButton variant="minimal" href="http://portfolio.oeiuwq.com">Portfolio</LinkButton>
+</span>
+
+<span class="search">
+  <Default><slot /></Default>
+</span>

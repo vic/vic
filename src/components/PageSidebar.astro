@@ -1,0 +1,20 @@
+---
+const { title, description } = Astro.locals.starlightRoute.entry.data;
+const isHomePage = Astro.locals.starlightRoute.id === '';
+
+import Default from '@astrojs/starlight/components/PageSidebar.astro';
+import { LinkCard } from '@astrojs/starlight/components';
+import { LinkButton } from '@astrojs/starlight/components';
+import { Code } from '@astrojs/starlight/components';
+import { Card, CardGrid } from '@astrojs/starlight/components';
+import HomeSidebar from './HomeSidebar.astro';
+---
+
+{
+  isHomePage && (<HomeSidebar />)
+}
+{
+  !isHomePage && (
+    <Default><slot /></Default>
+  )
+}

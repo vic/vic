@@ -1,0 +1,8 @@
+:root {
+  --sl-font: 'Victor Mono', 'VictorMono', serif;
+}
+
+.sidebar-pane .sidebar-content .sl-badge {
+  right: 0px;
+  position: absolute;
+}
