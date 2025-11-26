@@ -1,10 +1,10 @@
-name: apex
+name: faith
 on:
   workflow_dispatch:
   push:
-    branches: [ "apex" ]
+    branches: [ "faith" ]
 concurrency:
-  group: "apex"
+  group: "faith"
   cancel-in-progress: true
 jobs:
   deploy:
@@ -24,6 +24,6 @@ jobs:
          ssh-keyscan -t rsa ssh-vic.alwaysdata.net >> ~/.ssh/known_hosts
          chmod 400 ~/.ssh/*
          chmod 700 ~/.ssh
-      - run: rsync -rz --mkpath dist/ vic@ssh-vic.alwaysdata.net:www/apex
+      - run: rsync -rz --mkpath dist/ vic@ssh-vic.alwaysdata.net:www/faith
       - run: rm -rf ~/.ssh
 
