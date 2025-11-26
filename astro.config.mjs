@@ -5,7 +5,7 @@ import catppuccin from "@catppuccin/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://oeiuwq.com',
+	site: 'https://blog.oeiuwq.com',
 	base: '',
 	integrations: [
 		starlight({
@@ -13,7 +13,7 @@ export default defineConfig({
 			plugins: [
 			  catppuccin(),
 			],
-			title: '<oeiuwq>',
+			title: '<blog>',
 			social: [
 			  { icon: 'heart', label: 'GitHub Sponsor', href: 'https://github.com/sponsors/vic' },
 			  { icon: 'homebrew', label: 'Kofi', href: 'https://ko-fi.com/oeiuwq' },
