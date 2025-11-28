@@ -1,5 +1,6 @@
 <!-- Badges -->
 <p align="right">
+  <a href="https://codes.oeiuwq.com/">Search in my repos</a>
   <a href="https://github.com/sponsors/vic"><img src="https://img.shields.io/badge/sponsor-vic-white?logo=githubsponsors&logoColor=white&labelColor=%23FF0000" alt="Sponsor Vic"/>
   </a>
 </p>
