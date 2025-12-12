@@ -11,10 +11,16 @@
 
 > [![fx-rs](https://img.shields.io/github/stars/vic/fx-rs?style=social&logo=rust&label=%2Ffx-rs&link=https%3A%2F%2Fgithub.com%2Fvic%2Ffx-rs)](https://github.com/vic/fx-rs) - Type-safe Algebraic Effects System for Rust. With Lenses and Context Adaptation and Quantified Effects. (Research Project)
 
+> [![godnix](https://img.shields.io/github/stars/vic/godnix?style=social&logo=go&label=%2Fgodnix&link=https%3A%2F%2Fgithub.com%2Fvic%2Fgodnix)](https://github.com/vic/godnix) - A A Golang compiler for Nix language into delta-interaction networks. (Research Project)
 
-> [![flake-file](https://img.shields.io/github/stars/vic/flake-file?style=social&logo=nixos&label=%2Fflake-file&link=https%3A%2F%2Fgithub.com%2Fvic%2Fflake-file)](https://github.com/vic/flake-file) - Novel flake.nix generator for the flake-parts community. (Nix Tooling)
+> [![godnet](https://img.shields.io/github/stars/vic/godnet?style=social&logo=go&label=%2Fgodnet&link=https%3A%2F%2Fgithub.com%2Fvic%2Fgodnet)](https://github.com/vic/godnet) - Golang compiler target and runtime for delta-interaction nets. (Research Project)
+
 
 > <a href="https://vic.github.io/dendrix/Dendritic-Ecosystem.html#vics-dendritic-libraries"> <img src="https://img.shields.io/badge/Dendritic-Nix-informational?style=social&logo=nixos&logoColor=blue" alt="Dendritic Nix"/> </a> Tools for Dendritic Nix.
+
+> [![dendritic-unflake](https://img.shields.io/github/stars/vic/dendritic-unflake?style=social&logo=nixos&label=%2Fdendritic-unflake&link=https%3A%2F%2Fgithub.com%2Fvic%2Fdendritic-unflake)](https://github.com/vic/dendritic-unflake) - Non-flakes dendritic examples using different top-level module classes.
+
+> [![flake-file](https://img.shields.io/github/stars/vic/flake-file?style=social&logo=nixos&label=%2Fflake-file&link=https%3A%2F%2Fgithub.com%2Fvic%2Fflake-file)](https://github.com/vic/flake-file) - Novel flake.nix generator for the flake-parts community. (Nix Tooling)
 
 > [![import-tree](https://img.shields.io/github/stars/vic/import-tree?style=social&logo=nixos&label=%2Fimport-tree&link=https%3A%2F%2Fgithub.com%2Fvic%2Fimport-tree)](https://github.com/vic/import-tree) - Nix file loader. Easy, configurable, with extensible API.
 
