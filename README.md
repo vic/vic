@@ -1,6 +1,9 @@
 <!-- Badges -->
 <p align="right">
-  <a href="https://codes.oeiuwq.com/">Search in my repos</a>
+  <img src="https://img.shields.io/badge/$25USD Fee-Answer to ppl who dont RTFM-gold?logo=github" alt="RTFM fee"/>
+  <img src="https://img.shields.io/badge/$350USD Fee-Review AI generated PR-gold?logo=github" alt="RTFM fee"/>
+  <a href="https://codes.oeiuwq.com"><img src="https://img.shields.io/badge/owned repos-and stars-purple?logo=github" alt="Repos and stars"/>
+  </a>
   <a href="https://github.com/sponsors/vic"><img src="https://img.shields.io/badge/sponsor-vic-white?logo=githubsponsors&logoColor=white&labelColor=%23FF0000" alt="Sponsor Vic"/>
   </a>
 </p>
