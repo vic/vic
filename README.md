@@ -14,6 +14,8 @@
 
 > [![fx-rs](https://img.shields.io/github/stars/vic/fx-rs?style=social&logo=rust&label=%2Ffx-rs&link=https%3A%2F%2Fgithub.com%2Fvic%2Ffx-rs)](https://github.com/vic/fx-rs) - Type-safe Algebraic Effects System for Rust. With Lenses and Context Adaptation and Quantified Effects. (Research Project)
 
+> [![nfx](https://img.shields.io/github/stars/vic/nfx?style=social&logo=nixos&label=%2Fnfx&link=https%3A%2F%2Fgithub.com%2Fvic%2Fnfx)](https://github.com/vic/nfx) - Algebraic Effects System for Nix, ported from fx.rs
+
 > [![godnix](https://img.shields.io/github/stars/vic/godnix?style=social&logo=go&label=%2Fgodnix&link=https%3A%2F%2Fgithub.com%2Fvic%2Fgodnix)](https://github.com/vic/godnix) - A A Golang compiler for Nix language into delta-interaction networks. (Research Project)
 
 > [![godnet](https://img.shields.io/github/stars/vic/godnet?style=social&logo=go&label=%2Fgodnet&link=https%3A%2F%2Fgithub.com%2Fvic%2Fgodnet)](https://github.com/vic/godnet) - Golang compiler target and runtime for delta-interaction nets. (Research Project)
