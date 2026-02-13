@@ -25,7 +25,7 @@
 
 > [![dendritic-unflake](https://img.shields.io/github/stars/vic/dendritic-unflake?style=social&logo=nixos&label=%2Fdendritic-unflake&link=https%3A%2F%2Fgithub.com%2Fvic%2Fdendritic-unflake)](https://github.com/vic/dendritic-unflake) - Non-flakes dendritic examples using different top-level module classes.
 
-> [![flake-file](https://img.shields.io/github/stars/vic/flake-file?style=social&logo=nixos&label=%2Fflake-file&link=https%3A%2F%2Fgithub.com%2Fvic%2Fflake-file)](https://github.com/vic/flake-file) - Novel flake.nix generator for the flake-parts community. (Nix Tooling)
+> [![flake-file](https://img.shields.io/github/stars/vic/flake-file?style=social&logo=nixos&label=%2Fflake-file&link=https%3A%2F%2Fgithub.com%2Fvic%2Fflake-file)](https://github.com/vic/flake-file) - Generates flake.nix/unflake.nix/npins inputs from Nix modules.
 
 > [![import-tree](https://img.shields.io/github/stars/vic/import-tree?style=social&logo=nixos&label=%2Fimport-tree&link=https%3A%2F%2Fgithub.com%2Fvic%2Fimport-tree)](https://github.com/vic/import-tree) - Nix file loader. Easy, configurable, with extensible API.
 
