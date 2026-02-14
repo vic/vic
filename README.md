@@ -95,7 +95,7 @@ If you want me to contribute to some project I can also take [comissions](https:
 
 ###### GitHub User #331
 
-![stats](https://github-readme-stats.vercel.app/api?username=vic&count_private=true&show_icons=true&hide_border=true&theme=material-palenight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<img src="https://githubcard.com/vic.svg?d=iIiQfjmJ" size="400" width="400" height="400" />
 
 ---
 
