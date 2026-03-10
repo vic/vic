@@ -21,7 +21,7 @@
 > [![godnet](https://img.shields.io/github/stars/vic/godnet?style=social&logo=go&label=%2Fgodnet&link=https%3A%2F%2Fgithub.com%2Fvic%2Fgodnet)](https://github.com/vic/godnet) - Golang compiler target and runtime for delta-interaction nets. (Research Project)
 
 
-> <a href="https://vic.github.io/dendrix/Dendritic-Ecosystem.html#vics-dendritic-libraries"> <img src="https://img.shields.io/badge/Dendritic-Nix-informational?style=social&logo=nixos&logoColor=blue" alt="Dendritic Nix"/> </a> Tools for Dendritic Nix.
+> <a href="https://dendritic.oeiuwq.com"> <img src="https://img.shields.io/badge/Dendritic-Nix-informational?style=social&logo=nixos&logoColor=blue" alt="Dendritic Nix"/> </a> Tools for Dendritic Nix.
 
 > [![dendritic-unflake](https://img.shields.io/github/stars/vic/dendritic-unflake?style=social&logo=nixos&label=%2Fdendritic-unflake&link=https%3A%2F%2Fgithub.com%2Fvic%2Fdendritic-unflake)](https://github.com/vic/dendritic-unflake) - Non-flakes dendritic examples using different top-level module classes.
 
