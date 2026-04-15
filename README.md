@@ -16,6 +16,9 @@
 
 > [![nfx](https://img.shields.io/github/stars/vic/nfx?style=social&logo=nixos&label=%2Fnfx&link=https%3A%2F%2Fgithub.com%2Fvic%2Fnfx)](https://github.com/vic/nfx) - Algebraic Effects System for Nix, ported from fx.rs
 
+> [![nix-effects](https://img.shields.io/github/starskleisli-io/nix-effects?style=social&logo=nixos&label=%2Fnfx&link=https%3A%2F%2Fgithub.com%2Fkleisli-io%2Fnix-effects)](https://github.com/kleisli-io/nix-effects) - I'm core contributor to this effect system with dependent and linear types and Hoas checker for Nix. based from nfx.
+
+
 > [![godnix](https://img.shields.io/github/stars/vic/godnix?style=social&logo=go&label=%2Fgodnix&link=https%3A%2F%2Fgithub.com%2Fvic%2Fgodnix)](https://github.com/vic/godnix) - A A Golang compiler for Nix language into delta-interaction networks. (Research Project)
 
 > [![godnet](https://img.shields.io/github/stars/vic/godnet?style=social&logo=go&label=%2Fgodnet&link=https%3A%2F%2Fgithub.com%2Fvic%2Fgodnet)](https://github.com/vic/godnet) - Golang compiler target and runtime for delta-interaction nets. (Research Project)
