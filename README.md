@@ -18,9 +18,7 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 
 ### [Ren](https://github.com/vic/ren)
 
-A small language for describing Nix fleets. You declare your own nouns (hosts, users, whatever your world has) and Ren puts each piece of configuration where it belongs. It grew out of [Den](https://github.com/denful/den), so if you know Den you already know most of the ideas, just with a smaller grammar.
-
-It is not finished, and I keep finding its limits. When I do, I open an issue about it, which is a healthy way to argue with yourself in public.
+A small language for describing Nix fleets. You declare your own nouns (hosts, users, k8s, terraform, androids, whatever your world has) from nixos to complete networks of services, and Ren puts each piece of configuration where it belongs. It grew out of [Den](https://github.com/denful/den), so if you know Den you already know most of the ideas, just with a smaller grammar.
 
 Related bits:
 
