@@ -25,13 +25,13 @@ Related bits:
 - [ren-ports](https://github.com/vic/ren-ports): real fleets (mine and a few friendly strangers') re-modeled in Ren by an agent, to see if the thing holds up. Not canonical, just a stress test with nice diagrams.
 - [dungeon](https://github.com/vic/dungeon): Den's API rebuilt on Gen libraries. Still very much in progress, most of the tests are not there yet, and I'm not going to pretend otherwise.
 
+### [mtx](https://github.com/vic/mtx)
+
+A full-featured Matrix chat client for the terminal inspired by helix and vim keys.
+
 ### [ircc](https://github.com/vic/ircc)
 
 A local IRC-like chat for Claude Code sessions. Each session is a `#channel`, you make rooms (`&review`), invite sessions, and agents working on different projects can finally talk to each other instead of through me. It opens no network port at all, only unix sockets on your machine.
-
-```sh
-nix run github:vic/ircc
-```
 
 Yes, I built a chat room for robots. They are better at it than I am.
 
@@ -126,6 +126,18 @@ I think of what I make as acts of love that happen to compile. Free and libre, n
 - 💬 [Open a discussion](https://github.com/vic/vic/discussions) about anything, I'd love to hear from you
 - ✉️ vborja@apache.org (for business, and spam)
 - 🦋 [Bluesky](https://bsky.app/profile/oeiuwq.bsky.social) · [X](https://x.com/oeiuwq) @oeiuwq
+
+## Recent GitHub activity
+
+I’ve been moving between a few threads lately, and the recent activity on GitHub reflects that: a lot of Nix work, a lot of design work, and a fair amount of trying to make the tools feel more natural to use.
+
+- [denful/den](https://github.com/denful/den) — the big design and experimentation hub for aspect-oriented Nix
+- [denful/flake-file](https://github.com/denful/flake-file) — module-driven flake generation and the tooling around it
+- [vic/ren](https://github.com/vic/ren) — a small language for describing fleets and infrastructure in a more intentional way
+- [vic/vix](https://github.com/vic/vix) — my personal config lab where I test ideas before they get public
+- [vic/mtx](https://github.com/vic/mtx) — active work in the same broad orbit of systems and language tooling
+
+The last year has been a steady mix of docs, experiments, and real-world cleanup. I’m happy to keep building in public, and I’m grateful for everyone who sticks around for the ride.
 
 ---
 
