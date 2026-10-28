@@ -16,12 +16,15 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 
 ## What I'm proud of lately
 
-### [Ren](https://github.com/vic/ren)
+### [Sven](https://github.com/vic/sven)
 
-A small language for describing Nix fleets. You declare your own nouns (hosts, users, k8s, terraform, androids, whatever your world has) from nixos to complete networks of services, and Ren puts each piece of configuration where it belongs. It grew out of [Den](https://github.com/denful/den), so if you know Den you already know most of the ideas, just with a smaller grammar.
+Nix configurations you can ask questions about, and prove things about, before you deploy. A [cycle.js](https://cycle.js.orrg) inspired pure-Nix DSL for advanced fleet configurations where everything is a query. It features a Datalog/WFS and uKanren logic layers. You declare your own nouns (fleets, envs, hosts, users, k8s, terraform, androids, whatever your world has) from nixos to complete networks of services, and Sven puts each piece of configuration where it belongs.
 
 Related bits:
 
+- [ren](https://github.com/vic/ren)
+A re-interpretation of my [den](https://github.com/denful/den) framework as a
+library built solely on [gen](https://github.com/sini/gen).
 - [ren-ports](https://github.com/vic/ren-ports): real fleets (mine and a few friendly strangers') re-modeled in Ren by an agent, to see if the thing holds up. Not canonical, just a stress test with nice diagrams.
 - [dungeon](https://github.com/vic/dungeon): Den's API rebuilt on Gen libraries. Still very much in progress, most of the tests are not there yet, and I'm not going to pretend otherwise.
 
