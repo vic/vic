@@ -16,9 +16,9 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 
 ## What I'm proud of lately
 
-### [Sven](https://github.com/vic/sven)
+### [Yen](https://github.com/vic/yen)
 
-Nix configurations you can ask questions about, and prove things about, before you deploy. A [cycle.js](https://cycle.js.orrg) inspired pure-Nix DSL for advanced fleet configurations where everything is a query. It features a Datalog/WFS and uKanren logic layers. You declare your own nouns (fleets, envs, hosts, users, k8s, terraform, androids, whatever your world has) from nixos to complete networks of services, and Sven puts each piece of configuration where it belongs.
+Nix fleets you can formally verify before deployment. Build Nix configurations you can ask questions about, and prove things about, before you deploy. FRP inspired pure-Nix language for advanced fleet configurations where everything is a query. Two logic substrates: uKanren for configuration synthesis and Datalog for proving invariants.
 
 Related bits:
 
