@@ -19,7 +19,7 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 <a href="https://github.com/vic?tab=repositories"><small>recent projects</small></a> - 
 <a href="https://github.com/search?q=involves%3Avic&type=issues"><small>recent activity</small></a> - 
 <a href="https://denful.dev"><small>my denful Nix umbrella</small></a> -
-<a href="https://github.com/denful?tab=repositories"><small>denful projects</small></a>
+<a href="https://github.com/orgs/denful/repositories"><small>denful projects</small></a>
 
 <table>
 <tr>
