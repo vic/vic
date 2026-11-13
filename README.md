@@ -4,9 +4,10 @@
 
 Compilers, effect systems, Nix, and whatever I fell into this week.
 
+[![oeiuwq.com](https://img.shields.io/badge/oeiuwq.com-2b3137?style=for-the-badge&logo=webtrees)](https://oeiuwq.com)
 [![Sponsor @vic](https://img.shields.io/badge/Sponsor_my_open_source-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vic)
 &nbsp;
-[![CV](https://img.shields.io/badge/CV-25%2B_years-2b3137?style=for-the-badge&logo=github)](https://github.com/vic/vic/blob/main/cv.md)
+[![CV](https://img.shields.io/badge/CV-25%2B_years-2b3137?style=for-the-badge&logo=github)](https://portfolio.oeiuwq.com)
 
 <sub>Writing open source since 1999 · GitHub user #331 · Mexico City 🇲🇽</sub>
 
@@ -170,7 +171,7 @@ I think of what I make as acts of love that happen to compile. Free and libre, n
 - **Also fluent** Haskell, Elm, Ruby, TypeScript
 - **Infrastructure** NixOS, Kubernetes, Terraform, Docker, CI/CD
 
-📄 [Full CV](https://github.com/vic/vic/blob/main/cv.md)
+📄 [Full CV](https://portfolio.oeiuwq.com)
 
 ## Connect
 
