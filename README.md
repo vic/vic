@@ -4,6 +4,7 @@
 
 Compilers, effect systems, Nix, and whatever I fell into this week.
 
+<a href="https://berean.faith"><img width="150" height="30" alt="berean.faith" src="https://github.com/user-attachments/assets/707665b9-244d-462c-87f8-ff5e26bc4dcd" /></a>
 [![oeiuwq.com](https://img.shields.io/badge/oeiuwq.com-2b3137?style=for-the-badge&logo=webtrees)](https://oeiuwq.com)
 [![Sponsor @vic](https://img.shields.io/badge/Sponsor_my_open_source-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vic)
 &nbsp;
