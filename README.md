@@ -6,7 +6,7 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 
 <a href="https://berean.faith"><img width="150" height="30" alt="berean.faith" src="https://github.com/user-attachments/assets/707665b9-244d-462c-87f8-ff5e26bc4dcd" /></a>
 [![oeiuwq.com](https://img.shields.io/badge/oeiuwq.com-2b3137?style=for-the-badge&logo=webtrees)](https://oeiuwq.com)
-[![Sponsor @vic](https://img.shields.io/badge/Sponsor_my_open_source-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vic)
+[![Sponsor @vic](https://img.shields.io/badge/Sponsor_me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/vic)
 &nbsp;
 [![CV](https://img.shields.io/badge/CV-25%2B_years-2b3137?style=for-the-badge&logo=github)](https://portfolio.oeiuwq.com)
 
@@ -28,6 +28,12 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 <td>
 
 
+### [berean.faith](https://berean.faith)
+
+More than a website to read the Bible, I wanted a tool to navigate on it while studying it word by word, deeply. This is a personal ministry, the website was built to help me study the Scripture, but I also hope
+that it is a blessing to anyone willing to draw near to God.
+
+
 ### [srs](https://github.com/vic/srs)
 
 I was tired of Rust compilation times and `target` filling my disk. Also I've always loved Scala3, so `srs` is my take at an Scala3-like compiler into PortableC where memory management is tracked
@@ -40,7 +46,7 @@ Nix fleets you can formally verify before deployment. Build Nix configurations y
 Related bits:
 
 - [ren](https://github.com/vic/ren)
-A re-interpretation of my [den](https://github.com/denful/den) framework as a
+A re-interpretation of my [**Den**](https://github.com/denful/den) framework as a
 library built solely on [gen](https://github.com/sini/gen).
 - [ren-ports](https://github.com/vic/ren-ports): real fleets (mine and a few friendly strangers') re-modeled in Ren by an agent, to see if the thing holds up. Not canonical, just a stress test with nice diagrams.
 - [dungeon](https://github.com/vic/dungeon): Den's API rebuilt on Gen libraries. Still very much in progress, most of the tests are not there yet, and I'm not going to pretend otherwise.
