@@ -39,6 +39,11 @@ that it is a blessing to anyone willing to draw near to God.
 I was tired of Rust compilation times and `target` filling my disk. Also I've always loved Scala3, so `srs` is my take at an Scala3-like compiler into PortableC where memory management is tracked
 via Flow Effects and Stateful Protocols. It is very young and unstable (aka `-O fun`: **optimized for fun**)
 
+
+### [snx](https://github.com/vic/snx)
+
+[Another](https://github.com/denful/dnx) try at a modern from-scratch Nix evaluator. This time built on `srs`, being its primary user also pushes `srs` forward into being an stable and actually usable compiler.
+
 ### [Yen](https://github.com/vic/yen)
 
 Nix fleets you can formally verify before deployment. Build Nix configurations you can ask questions about, and prove things about, before you deploy. FRP inspired pure-Nix language for advanced fleet configurations where everything is a query. Two logic substrates: uKanren for configuration synthesis and Datalog for proving invariants.
