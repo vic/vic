@@ -30,8 +30,7 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 
 ### [berean.faith](https://berean.faith)
 
-More than a website to read the Bible, I wanted a tool to navigate on it while studying it word by word, deeply. This is a personal ministry, the website was built to help me study the Scripture, but I also hope
-that it is a blessing to anyone willing to draw near to God.
+I wanted a Bible study tool inspired by the Niri scrolling desktop. You can have as many scripture pages open and switch between bible-reading and word-study. I also built a Datalog (logic engine) you can use to search facts on the bible. And SDA content that is referenced by each verse. An small Notes page can be used to keep track of your bible study. This is a personal ministry, the website was built to help me study the always amazing Word of God, but I also hope that it is of blessing to anyone willing to draw near to the LORD.
 
 
 ### [srs](https://github.com/vic/srs)
