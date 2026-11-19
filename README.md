@@ -16,7 +16,7 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 
 ---
 
-## What I'm proud of lately
+## What I'm happy of doing lately
 
 <a href="https://codes.oeiuwq.com/#activity"><small>recent projects</small></a> - 
 <a href="https://github.com/search?q=involves%3Avic&type=issues"><small>recent activity</small></a> - 
