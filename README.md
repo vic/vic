@@ -34,7 +34,7 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 I wanted a Bible study tool inspired by the Niri scrolling desktop. You can have as many scripture pages open and switch between bible-reading and word-study. I also built a Datalog (logic engine) you can use to search facts on the bible. And SDA content that is referenced by each verse. An small Notes page can be used to keep track of your bible study. This is a personal ministry, the website was built to help me study the always amazing Word of God, but I also hope that it is of blessing to anyone willing to draw near to the LORD.
 
 
-### [srs](https://github.com/vic/stigi)
+### [stigi](https://github.com/vic/stigi)
 
 I was tired of Rust compilation times and `target` filling my disk. Also I've always loved Scala3, so [`stigi.org`](https://stigi.org) is my take at an Scala3-like compiler into Portable C where memory management is tracked
 via Flow Effects and Stateful Protocols. It is very young and unstable (aka `-O fun`: **optimized for fun**)
