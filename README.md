@@ -31,7 +31,7 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 
 ### [berean.faith](https://berean.faith)
 
-I wanted a Bible study tool inspired by the Niri scrolling desktop. You can have as many scripture pages open and switch between bible-reading and word-study. I also built a Datalog (logic engine) you can use to search facts on the bible. And SDA content that is referenced by each verse. An small Notes page can be used to keep track of your bible study. This is a personal ministry, the website was built to help me study the always amazing Word of God, but I also hope that it is of blessing to anyone willing to draw near to the LORD.
+I wanted a Bible study tool inspired by the Niri scrolling desktop. You can have as many scripture pages open and switch between bible-reading and word-study. I also built [tupu](https://github.com/vic/tupu) a Datalog (logic engine) you can use to search facts on the bible. And SDA content that is referenced by each verse. An small Notes page can be used to keep track of your bible study. This is a personal ministry, the website was built to help me study the always amazing Word of God, but I also hope that it is of blessing to anyone willing to draw near to the LORD.
 
 
 ### [stigi](https://github.com/vic/stigi)
@@ -42,7 +42,7 @@ via Flow Effects and Stateful Protocols. It is very young and unstable (aka `-O 
 Related bits:
 
 - [tupu](https://github.com/vic/topu) A minimal datalog built for proving Stigi kernel during bootstrap, built because Souffle and FlowLog were slow for our purpose.  
-- [snx](https://github.com/vic/snx) Another [try](https://github.com/denful/dnx) at a modern from-scratch Nix evaluator. This time built on `srs`, being its primary user also pushes `srs` forward into being an stable and actually usable compiler.
+- [snx](https://github.com/vic/snx) Another [try](https://github.com/denful/dnx) at a modern from-scratch Nix evaluator. This time built on `Stigi`, being its primary user also pushes `Stigi` forward into being an stable and actually usable compiler.
 
 ### [Yen](https://github.com/vic/yen)
 
