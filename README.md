@@ -41,9 +41,8 @@ via Flow Effects and Stateful Protocols. It is very young and unstable (aka `-O 
 
 Related bits:
 
-- [topu](https://github.com/vic/topu) A minimal datalog built for proving Stigi kernel during bootstrap, built because Souffle and FlowLog were slow for our purpose.  
-- [snx](https://github.com/vic/snx)
-[Another](https://github.com/denful/dnx) try at a modern from-scratch Nix evaluator. This time built on `srs`, being its primary user also pushes `srs` forward into being an stable and actually usable compiler.
+- [tupu](https://github.com/vic/topu) A minimal datalog built for proving Stigi kernel during bootstrap, built because Souffle and FlowLog were slow for our purpose.  
+- [snx](https://github.com/vic/snx) Another [try](https://github.com/denful/dnx) at a modern from-scratch Nix evaluator. This time built on `srs`, being its primary user also pushes `srs` forward into being an stable and actually usable compiler.
 
 ### [Yen](https://github.com/vic/yen)
 
