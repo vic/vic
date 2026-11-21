@@ -18,10 +18,10 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 
 ## What I'm happy of doing lately
 
-<a href="https://codes.oeiuwq.com/#activity"><small>recent projects</small></a> - 
+<a href="https://github.com/vic?tab=repositories"><small>repositories</small></a> - 
 <a href="https://github.com/search?q=involves%3Avic&type=issues"><small>recent activity</small></a> - 
 <a href="https://denful.dev"><small>my denful Nix umbrella</small></a> -
-<a href="https://github.com/orgs/denful/repositories"><small>denful projects</small></a>
+<a href="https://github.com/orgs/denful/repositories"><small>denful projects</small></a> - 
 <a href="https://invernadero.intier.net/vic/"><small>invernadero/~vic</small></a>
 
 <table>
@@ -39,9 +39,10 @@ I wanted a Bible study tool inspired by the Niri scrolling desktop. You can have
 I was tired of Rust compilation times and `target` filling my disk. Also I've always loved Scala3, so [`stigi.org`](https://stigi.org) is my take at an Scala3-like compiler into Portable C where memory management is tracked
 via Flow Effects and Stateful Protocols. It is very young and unstable (aka `-O fun`: **optimized for fun**)
 
+Related bits:
 
-### [snx](https://github.com/vic/snx)
-
+- [topu](https://github.com/vic/topu) A minimal datalog built for proving Stigi kernel during bootstrap, built because Souffle and FlowLog were slow for our purpose.  
+- [snx](https://github.com/vic/snx)
 [Another](https://github.com/denful/dnx) try at a modern from-scratch Nix evaluator. This time built on `srs`, being its primary user also pushes `srs` forward into being an stable and actually usable compiler.
 
 ### [Yen](https://github.com/vic/yen)
