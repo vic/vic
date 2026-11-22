@@ -18,7 +18,7 @@ Compilers, effect systems, Nix, and whatever I fell into this week.
 
 ## What I'm happy of doing lately
 
-<a href="https://github.com/vic?tab=repositories"><small>repositories</small></a> - 
+<a href="https://github.com/repos?q=owner%3Avic+sort%3Aupdated"><small>repositories</small></a> - 
 <a href="https://github.com/search?q=involves%3Avic&type=issues"><small>recent activity</small></a> - 
 <a href="https://denful.dev"><small>my denful Nix umbrella</small></a> -
 <a href="https://github.com/orgs/denful/repositories"><small>denful projects</small></a> - 
