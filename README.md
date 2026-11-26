@@ -63,6 +63,13 @@ library built solely on [gen](https://github.com/sini/gen).
 <td>
 
 
+### [coinchord](https://github.com/vic/coinchord)
+
+`Back to the 1980s` sound physics keyboard. Use two coins on your desk and let your mic capture tiny sounds for typing.
+
+<img width="400" height="229" alt="Image" src="https://github.com/vic/coinchord/raw/main/genesis.gif" />
+
+
 ### [tot](https://github.com/vic/tot)
 
 I created my own terminal-based dungeon crawler auto-shooter survivor game. It is clearly inspired by Diablo/Doom and HallsOfTorment/VimpireSurvivors.
